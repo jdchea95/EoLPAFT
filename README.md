@@ -2,7 +2,9 @@
 
 This code was written for the tool shared in  "An End-ofLife Plastic and Additive Flow Tracker Tool for Scenario Forecasting."
 
-
+<p align="center">
+  <img src=https://github.com/jdchea95/EoLPAFT/blob/main/eolpaft%20diagram.png width="80%">
+</p>
 
 ## Requirements
 
