@@ -40,7 +40,11 @@ After running the Python script you will obtain the following files:
 | temp-plot.html | Sankey Diagram Showing Normalized Flows  |
 | Sankey_Diagram.png  | PNG version of Sankey Diagram above  |
 
+
 Optional documents that can also be generated:
+| File name | Description |
+| ------------- | ------------- |
+|Stream Summary Calculations.xlsx | Shows MSW stream flows for scenario, current data marked by sheet date/time|
 
 
 ## Disclaimer
@@ -50,13 +54,3 @@ The views expressed in this article are those of the authors and do not necessar
 ## Acknowledgement
 
 This research was supported in part by an appointment to the US Environmental Protection Agency (EPA) Research Participation Program administered by the Oak Ridge Institute for Science and Education (ORISE) through an interagency agreement between the US Department of Energy (DOE) and the US EPA. ORISE is managed by ORAU under DOE contract number DE-SC0014664. Partial support for undergraduate student at Rowan University was provided by the US EPA Bipartisan Infrastructure Law (BIL) P2 grant 4U96236522.
-
------------------------------------------------------------------------------------------------------------------------------
-
-<a name="myfootnote1">1</a>: Recycling, energy recovery, treatment & disposal facility (RETDF).
-
-<a name="myfootnote2">2</a>: The data entries of float type are in **kg/yr**.
-
-<a name="myfootnote3">3</a>: They are 7 files.
-
-<a name="myfootnote4">4</a>: They are 6 files.
