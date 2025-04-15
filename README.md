@@ -46,6 +46,22 @@ Optional documents that can also be generated:
 | ------------- | ------------- |
 |Stream Summary Calculations.xlsx | Shows MSW stream flows for scenario, current data marked by sheet date/time|
 
+## Uncertainty Testing
+The EoL_GUI_uncert.py file can be used to carry out the uncertainty analysis described in Section 2.3.3 and 3.3, which tests a range of mass percents in for each additive category. This file can be executed alongside the uncert_testing.xlsx file (both must be saved in the same folder as the environment path at execution). 
+
+## Inputs
+| File name | Description |
+| ------------- | ------------- |
+|uncert_testing.xlsx | Contains mass percents of additive categories to be used in the uncertainty testing|
+
+## Outputs
+
+After running the uncertainty Python script you will obtain the following files:
+
+| File name | Description |
+| ------------- | ------------- |
+| MonteCarloResults.xlsx | Contains additive releases resulting from uncertainty testing at different additive mass compositions |
+
 
 ## Disclaimer
 
